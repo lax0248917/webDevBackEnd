@@ -122,6 +122,52 @@ YelpCamp V8
 [x] Save author's name to a comment automatically
 
 
+YelpCamp V9
+
+#Users + Campgrounds 
+[x] Prevent an unauthenticated user from creating a campground
+[x] Save username+id to newly created campground
+
+
+YelpCamp V10
+
+#Editing Campgrounds 
+[x] Add Method-Override
+[x] Add Edit Route for Campgrounds 
+[x] Add Link to Edit Page 
+[x] Add Update Route
+
+#Deleting Campgrounds
+[x] Add Destroy Route 
+[x] Add Delete button
+
+#Authorization Part 1: Campgrounds
+[x] User can only edit his/her campgrounds
+[x] User can only delete his/her campgrounds 
+[x] Hide/Show edit and delete buttons 
+
+#Editing Comments
+[x] Add Edit route for comments 
+[x] Add Edit button 
+[x] Add Update route
+
+#Deleting Comments
+[x] Add Destroy route
+[x] Add Delete button
+
+#Authorization Part 2: Comments
+[x] User can only edit his/her comments
+[x] User can only delete his/her comments 
+[x] Hide/Show edit and delete comments 
+[x] Refactor Middleware
+
+
+
+ 
+
+
+
+
 
 RESTful Routes-
 name     url        verb    desc.
