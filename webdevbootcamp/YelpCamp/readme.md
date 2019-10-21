@@ -161,10 +161,22 @@ YelpCamp V10
 [x] Hide/Show edit and delete comments 
 [x] Refactor Middleware
 
+#Adding in Flash!
+[x] Demo working version
+[x] Install and configure connect-Flash
+[x] Add bootstrap alerts to header
 
 
- 
+YelpCamp V12
 
+#Style Landing Page
+[x] Copy Code from Ian's Github Repo
+[x] Run animations on images
+
+#Dynamic Price Feature
+[x] Create input button for price on new.ejs, edit.ejs
+[x] Update the show.ejs to display price
+[x] Add the price variable to the campground.js model
 
 
 

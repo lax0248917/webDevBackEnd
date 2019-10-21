@@ -33,5 +33,3 @@ EJS syntax
 [x] Use body parser to get form data
 
 
-
-
